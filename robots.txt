@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocuyaeli.github.io/EsQ/sitemap_index.txt
+Sitemap: https://ocuyaeli.github.io/Oql/sitemap_index.txt
+Sitemap: https://ocuyaeli.github.io/WAE/sitemap_index.txt
+Sitemap: https://ocuyaeli.github.io/ZSo/sitemap_index.txt
